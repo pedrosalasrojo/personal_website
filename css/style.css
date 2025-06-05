@@ -86,12 +86,12 @@ a:hover {
 }
 
 .icons {
-  margin-top: 20px;
+  margin-top: 10px;
+  text-align: center;
 }
 
-.icons img {
-  width: 32px;
-  height: 32px;
-  margin-right: 10px;
+.icons a img {
+  width: 24px;
+  margin: 0 5px;
   vertical-align: middle;
-} 
+}
